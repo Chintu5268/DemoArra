@@ -10,8 +10,6 @@ public class ArrayListDemo2 {
 		num1.add(65);
 		num1.add(82);
 		num1.add(34);
-		num1.add(75);
-		num1.add(15);
 		System.out.println(num1);
 	}
 }
